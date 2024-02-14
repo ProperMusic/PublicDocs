@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbasil_docs=self.webpackChunkbasil_docs||[]).push([[7876],{5745:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
